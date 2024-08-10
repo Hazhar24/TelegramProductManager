@@ -6,7 +6,7 @@ const Home: FC = () => {
     <div className="flex flex-col items-center mt-52">
       <Input1 />
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
